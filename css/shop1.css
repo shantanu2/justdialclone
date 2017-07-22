@@ -1,0 +1,101 @@
+#v1{
+    border: 1px solid #e74347;;
+    height:50px;
+background-color:#e74347;
+}
+.v2{
+    height: 50px;
+    padding-top: 1px;
+    padding-left: 19px;
+    font-size: 33px;
+  
+}
+
+.v2 a:hover{
+    text-decoration: none;
+    color: #151922;
+}
+#v3{
+    font-size: 17px;
+    padding-top: 14px;
+
+}
+#v3 a:hover{
+     text-decoration: none;
+     color: #151922;
+}
+#v4{
+  font-size:17px;
+    padding-top: 14px;
+    
+}
+#v4 a:hover{
+    text-decoration: none;
+     color: #151922;
+}
+.custom-search-form{
+    margin-top:7px;
+  
+}
+.form-control{
+    font-size: 17px;
+    font-weight: 200;
+   color: #151922;
+    border: 1px solid #eaece1;
+}
+.fa {
+    padding-top: 12px;
+   font: normal normal normal 14px/1 FontAwesome;
+   
+}
+.fa-2x {
+    font-size: 17px;;
+}
+#v5{
+    padding-left: 15px;
+}
+a{
+        color: #eaece1;
+}
+.btn-brock {
+    color: #eaece1;
+    background-color: #e74347;
+    border-color: #eaece1;
+}
+.fa:hover{
+    color:#151922;
+} 
+.btn-brock:hover {
+    border-color:#eaece1;
+    color:#151922;
+}
+.form-control :focus{
+        border-color: #eaece1;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {   
+  border-color: #eaece1;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px #151922;
+  outline: 0 none;
+}
+.btn-brock:active {
+  box-shadow: none;
+    border-color:#eaece1; 
+}
+.btn-brock:active:focus{
+    border-color:#eaece1;
+} 
